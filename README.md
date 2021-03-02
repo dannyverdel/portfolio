@@ -1,9 +1,23 @@
-This contains most of my work and projects. Here you will find all that i've learned and what I am currently learning. Unfortunatly certain projects contain sensitive information so I can't display them in here. 
-<details>
-  <summary>Learning</summary>
-  In here you will find what I have learned recently. Beginning 2021 I got a new job as software developer so I started developing my skills in C family language and in APIs. I set a complete path for 2021 and maybe even 2022. There is a lot what i want to do. Below is a list of what I have learned.<br>
-    <details>
-      <summary>- C</summary>
-      I started this language with a course called "Learning C" on LinkedIn learning. I have completed this course and got a certificate which is in this repository. I am currently working on Advanced C Programming which is the second of the 3 courses in my C learning path. I don't plan on using this language but it is a good base of a lot of programming languages.
-    </details>
-</details>
+## Welcome
+Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go running and hiking trough the dunes at the beach. 
+
+## Education
+- High School KTS Voorhout: 4 years Building, Living and Interiour
+- MBO Nova College Hoofddorp: 1 year Civil Engineering
+- MBO Nova College Hoofddorp: Media/Application Development 2019 - present
+
+## Skills
+- HTML (Udemy 
+- CSS
+- C#
+- SQL
+
+## Employment Experience
+- Dobbe Transport wash crew: 27-08-2016 - 28-11-2020
+- Dobbe Transport rookie software developer: 05-12-2020 - present
+- New York Pizza delivery: 24-02-2020 - 01-01-2021
+- Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
+
+
+
+
