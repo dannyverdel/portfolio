@@ -21,6 +21,7 @@ Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year ol
 
 ## Contact
 *Email:* danny.verdel@gmail.com
+\t
 *Instagram:* dannyverdel
 
 
