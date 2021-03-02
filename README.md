@@ -23,4 +23,10 @@ Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year ol
 - *Email:* danny.verdel@gmail.com
 - *Instagram:* dannyverdel
 
+## Projects
+<detail>
+  <summary>Tamagotchi</summary>
+  This was a project for school to use our C# skills in a windows form app. We had to create a form where we could feed the creature and its food and drink bar would slowly drain away. Depending on the status of the creature the picture would change too. For this project I choose baby yoda for my creature since the mandalorian was airing at the time.
+</detail>
+
 
