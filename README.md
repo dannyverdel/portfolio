@@ -20,8 +20,6 @@ Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year ol
 - Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
 
 ## Contact
-*Email:* danny.verdel@gmail.com
-\t
-*Instagram:* dannyverdel
+*Email:* danny.verdel@gmail.com  *Instagram:* dannyverdel
 
 
