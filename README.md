@@ -32,5 +32,5 @@
 <details>
   <summary>C</summary>
   - I have completed the 'Learning C course' and can now continue to the 'Advanced C programming' course. But before that i will first look for a easy C challenge to test my skills. 
-  - I found a great challenge. I had to read a file and display the amount of lines in the file. I succesfully completed this challenge and will now move on to the 'Advanced C programming' course. I also have a challenge in mind which i will make next time.
+  - I found a great challenge. I had to read a file and display the amount of lines in the file. I succesfully completed this challenge and started the 'Advanced C Programming' course. 
 </details>
