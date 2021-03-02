@@ -1,22 +1,13 @@
 #include <stdio.h>
-#include <stdlib.h>
-
-#define SIZE 1024
 
 int main()
 {
-    char *sto;
+    int a;
 
-    sto = malloc(sizeof(char)*SIZE);
-    if(sto == NULL)
-    {
-        puts("Memory error");
-        return(1);
-    }
-    else
-    {
-        printf("%d bytes of memory allocated at %p\n", SIZE, sto);
-    }
+    printf("Give me an integer greater then 0: ");
+    scanf("%d", &a);
+
+    (a % 2) == 0 ? printf("The number %d is even", a) : printf("The number %d is odd", a);
 
     return(0);
 }
