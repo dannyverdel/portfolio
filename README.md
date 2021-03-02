@@ -7,10 +7,11 @@ Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year ol
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
 
 ## Skills
-- HTML (Udemy 
-- CSS
-- C#
+- HTML (Udemy The Complete Web Developer Course 2.0)
+- CSS (Udemy The Complete Web Developer Course 2.0)
+- C# 
 - SQL
+- Javascript (Udemy The Complete Web Developer Course 2.0)
 
 ## Employment Experience
 - Dobbe Transport wash crew: 27-08-2016 - 28-11-2020
