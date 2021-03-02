@@ -1,7 +1,8 @@
 ## My portfolio
-Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go running and hiking trough the dunes at the beach. 
-
-## Education
+<details>
+  <summary>resume</summary>
+  Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go running and hiking trough the dunes at the beach. 
+  ## Education
 - High School KTS Voorhout: 4 years Building, Living and Interiour
 - MBO Nova College Hoofddorp: 1 year Civil Engineering
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
@@ -22,11 +23,10 @@ Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year ol
 ## Contact
 - *Email:* danny.verdel@gmail.com
 - *Instagram:* dannyverdel
+</details>
 
 ## Projects
 <details>
   <summary>Tamagotchi</summary>
   This was a project for school to use our C# skills in a windows form app. We had to create a form where we could feed the creature and its food and drink bar would slowly drain away. Depending on the status of the creature the picture would change too. For this project I choose baby yoda for my creature since the mandalorian was airing at the time.
 </details>
-
-
