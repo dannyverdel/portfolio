@@ -1,4 +1,3 @@
-# portfolio
 This contains most of my work and projects. Here you will find all that i've learned and what I am currently learning. Unfortunatly certain projects contain sensitive information so I can't display them in here. 
 <details>
   <summary>Learning</summary>
