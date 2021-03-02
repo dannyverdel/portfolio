@@ -26,5 +26,5 @@
 ## Projects
 <details>
   <summary>Tamagotchi</summary>
-  This was a project for school to use our C# skills in a windows form app. We had to create a form where we could feed a creature and its food and drink bar would slowly drain away. Depending on the status of the creature the picture would change too. For this project I choose baby yoda for my creature since the mandalorian was airing at the time. You can take a full look at github.com/dannyverdel/portfolio
+  This was a project for school to use our C# skills in a windows form app. We had to create a form where we could feed a creature and its food and drink bar would slowly drain away. Depending on the status of the creature the picture would change too. For this project I choose baby yoda for my creature since the mandalorian was airing at the time. You can take a full look at https://github.com/dannyverdel/portfolio/tree/main/Projects/Tamagotchi_DannyVerdel
 </details>
