@@ -23,10 +23,14 @@
 - Email: danny.verdel@gmail.com
 - Instagram: dannyverdel
 
+<br>
+
 ## Projects
 <details>
   <summary>Coming soon</summary>
 </details>
+
+<br>
 
 ## Learning Updates
 <details>
