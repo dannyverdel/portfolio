@@ -1,13 +1,22 @@
 #include <stdio.h>
 
+void *f(void)
+{
+    static int array[5] = {2, 3, 5, 7, 11};
+
+    return(array);
+}
+
 int main()
 {
-    int a;
+    int x;
+    int *array;
 
-    printf("Give me an integer greater then 0: ");
-    scanf("%d", &a);
-
-    (a % 2) == 0 ? printf("The number %d is even", a) : printf("The number %d is odd", a);
+    array = f();
+    for(x = 0; x < 5; x++)
+    {
+        printf("%2d\n", array[x]);
+    }
 
     return(0);
 }
