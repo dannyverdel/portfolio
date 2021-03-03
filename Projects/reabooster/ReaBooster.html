@@ -1,0 +1,142 @@
+<!doctype html>
+<html>
+<head>
+    <title>ReaBooster</title>
+    <link rel="shortcut icon" src="target.ico" type="image/x-icon" />
+    <style type="text/css">
+        body {
+            background-color: #C5C5C5;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #shape {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            border-radius: 50%;
+            display: none;
+            position: relative;
+        }
+
+        #box {
+            border: 3px solid black;
+            background-color: white;
+            height: 500px;
+            width: 1500px;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 15px;
+        }
+
+        #title {
+            border-bottom: 1px solid black;
+            text-align: center;
+            margin-top: 0px;
+            padding-top: 0px;
+            height: 75px;
+        }
+
+        p {
+            text-align: center;
+            text-decoration: none;
+            font-weight: normal;
+        }
+
+        h4 {
+            font-weight: normal;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        span {
+            font-weight: bold;
+        }
+
+        h6 {
+            color: grey;
+            opacity: 80%;
+            text-align: center;
+        }
+
+        a {
+            position: relative;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        #info a:hover {
+            text-decoration: underline;
+        }
+
+        #info {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="title">
+        <h1>ReaBooster</h1>
+    </div>
+    <p>Your Time: <span id="timeTaken"></span></p>
+    <p>Score: <span id="score"></span></p>
+    <div id="box">
+        <div id="shape"></div>
+        <div id="shape"></div>
+    </div>
+    <div id="info">
+        <p>
+            <h6>Made by: <a href="https://www.instagram.com/dannyverdel/?hl=nl" target="_blank">Danny Verdel</a></h6>
+        </p>
+    </div>
+    <script type="text/javascript">
+        //start 1
+        var start = new Date().getTime();
+        //get random color
+        function getRandomColor() {
+            var letters = '0123456789ABCDEF'.split('');
+            var color = '#';
+            for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+        //make the shape appear
+        function makeShapeAppear() {
+            var top = Math.random() * 280;
+            var left = Math.random() * 1400;
+            document.getElementById("shape").style.backgroundColor = getRandomColor();
+            document.getElementById("shape").style.top = top + "px";
+            document.getElementById("shape").style.left = left + "px";
+            document.getElementById("shape").style.display = "block";
+            //start 2
+            start = new Date().getTime();
+        }
+        //make the shape appear after an ammount of time
+        function appearAfterDelay() {
+            setTimeout(makeShapeAppear, Math.random() * 750);
+        }
+        appearAfterDelay();
+        //score and time counters
+        var score = 0;
+        document.getElementById("shape").onclick = function () {
+            var end = new Date().getTime();
+            //time end!
+            document.getElementById("shape").style.display = "none";
+            var timeTaken = (end - start) / 1000;
+            document.getElementById("timeTaken").innerHTML = timeTaken + "s";
+            appearAfterDelay();
+            if (timeTaken > 0 && timeTaken <= 1){
+                score += 2;
+                document.getElementById("score").innerHTML = score + "pts";
+            } else if(timeTaken > 1 && timeTaken <= 5){
+                score += 1;
+                document.getElementById("score").innerHTML = score + "pts";
+            } else if(timeTaken > 5){
+                score += 0;
+                document.getElementById("score").innerHTML = score + "pts";
+            }
+        }
+    </script>
+</body>
+</html>
