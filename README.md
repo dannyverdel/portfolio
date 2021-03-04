@@ -25,16 +25,12 @@ Below are some languages i am proficient in. I am to this day still developing m
 - Email: danny.verdel@gmail.com
 - Instagram: dannyverdel
 
-<br>
-
 ## Projects
 Below I have listed some of my projects I have been working on. For more details you can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Projects">Projects</a> folder. 
 <details>
   <summary>ReaBooster</summary>
   This is a fun web game where you have to click the targets as fast as possible. It registers your reaction time and score. I did this with HTML and CSS for the looks and JavaScript for the functions and interaction. I made the base of this in a course called 'The complete web developer course 2.0' on udemy and added some extra features and styles by myself.
 </details>
-
-<br>
 
 ## Learning Updates
 <details>
