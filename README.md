@@ -7,7 +7,7 @@
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
 
 ## Skills
-Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL. You can check out the Certificates folder for more details. https://github.com/dannyverdel/portfolio/tree/main/Certificates
+Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
 - HTML 
 - CSS 
 - C# 
@@ -28,7 +28,7 @@ Below are some languages i am proficient in. I am to this day still developing m
 <br>
 
 ## Projects
-Below I have listed some of my projects I have been working on. For more details you can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Projects">Project</a> folder. 
+Below I have listed some of my projects I have been working on. For more details you can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Projects">Projects</a> folder. 
 <details>
   <summary>ReaBooster</summary>
   This is a fun web game where you have to click the targets as fast as possible. It registers your reaction time and score. I did this with HTML and CSS for the looks and JavaScript for the functions and interaction. I made the base of this in a course called 'The complete web developer course 2.0' on udemy and added some extra features and styles by myself.
