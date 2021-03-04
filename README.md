@@ -10,8 +10,9 @@
 - HTML (Udemy The Complete Web Developer Course 2.0)
 - CSS (Udemy The Complete Web Developer Course 2.0)
 - C# 
-- SQL
+- SQL (Sololearn)
 - Javascript (Udemy The Complete Web Developer Course 2.0)
+- PHP
 
 ## Employment Experience
 - Dobbe Transport wash crew: 27-08-2016 - 28-11-2020
