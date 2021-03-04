@@ -6,6 +6,12 @@
 - MBO Nova College Hoofddorp: 1 year Civil Engineering
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
 
+## Employment Experience
+- Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
+- Dobbe Transport rookie software developer: 05-12-2020 - present
+- New York Pizza delivery: 24-02-2020 - 01-01-2021
+- Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
+
 ## Skills
 Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
 - HTML 
@@ -14,12 +20,6 @@ Below are some languages i am proficient in. I am to this day still developing m
 - SQL 
 - Javascript 
 - PHP
-
-## Employment Experience
-- Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
-- Dobbe Transport rookie software developer: 05-12-2020 - present
-- New York Pizza delivery: 24-02-2020 - 01-01-2021
-- Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
 
 ## Contact
 - Email: danny.verdel@gmail.com
