@@ -7,7 +7,7 @@
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
 
 ## Skills
-Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL
+Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL. You can check out the Certificates for more details.
 - HTML 
 - CSS 
 - C# 
