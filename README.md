@@ -32,6 +32,8 @@ Below I have listed some of my projects I have been working on. For more details
   This is a fun web game where you have to click the targets as fast as possible. It registers your reaction time and score. I did this with HTML and CSS for the looks and JavaScript for the functions and interaction. I made the base of this in a course called 'The complete web developer course 2.0' on udemy and added some extra features and styles by myself.
 </details>
 
+<br>
+
 ## Learning Updates
 <details>
   <summary>C</summary>
