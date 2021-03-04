@@ -7,11 +7,12 @@
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
 
 ## Skills
-- HTML (Udemy The Complete Web Developer Course 2.0)
-- CSS (Udemy The Complete Web Developer Course 2.0)
+Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL
+- HTML 
+- CSS 
 - C# 
-- SQL (Sololearn)
-- Javascript (Udemy The Complete Web Developer Course 2.0)
+- SQL 
+- Javascript 
 - PHP
 
 ## Employment Experience
