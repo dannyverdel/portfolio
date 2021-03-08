@@ -1,19 +1,17 @@
 #include <stdio.h>
-#include <string.h>
-
-void incshow(char array[])
-{
-    int x;
-
-    for(x=0;x<strlen(array);x++)
-        printf("%c",array[x]);
-}
 
 int main()
 {
-    char text[] = "Danny";
+    struct person {
+        char name[64];
+        int age;
+    };
+    struct person danny = {
+        "Danny Verdel",
+        18
+    };
 
-    incshow(text);
+    printf("My name is %s and I am %d years old!\n", danny.name, danny.age);
 
     return(0);
 }
