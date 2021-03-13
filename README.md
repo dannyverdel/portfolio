@@ -13,7 +13,7 @@
 - Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
 
 ## Skills
-Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
+Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
 
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
