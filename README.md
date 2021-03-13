@@ -26,7 +26,7 @@ Below are some languages i am proficient in. I am to this day still developing m
 <img src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
 
 ## Contact
-- Email: danny.verdel@gmail.com
+<a href="mailto:danny.verdel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/dannyverdel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ## Projects
