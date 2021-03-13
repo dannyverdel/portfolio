@@ -15,19 +15,20 @@
 ## Skills
 Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img src="https://camo.githubusercontent.com/ba257102df0705adb131cefdac0d0c40174b948434d9c7bbfd8c883219e38a3c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f7765722b424926636f6c6f723d323232323232266c6f676f3d506f7765722b4249266c6f676f436f6c6f723d463243383131266c6162656c3d" style="max-width:100%;">
-<img src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
+<a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+<a href=""><img src="https://camo.githubusercontent.com/ba257102df0705adb131cefdac0d0c40174b948434d9c7bbfd8c883219e38a3c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f7765722b424926636f6c6f723d323232323232266c6f676f3d506f7765722b4249266c6f676f436f6c6f723d463243383131266c6162656c3d" style="max-width:100%;"></a>
+<a href=""><img src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white"></a>
 
 ## Contact
 <a href="mailto:danny.verdel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/dannyverdel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/danny-verdel-537240207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Projects
 Below I have listed some of my projects I have been working on. For more details you can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Projects">Projects</a> folder. 
