@@ -8,7 +8,7 @@
 
 ## Employment Experience
 - Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
-- Dobbe Transport rookie software developer: 05-12-2020 - present
+- Dobbe Transport junior software developer: 05-12-2020 - present
 - New York Pizza delivery: 24-02-2020 - 01-01-2021
 - Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
 
