@@ -1,5 +1,5 @@
 ## My portfolio
-  Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go running and hiking trough the dunes at the beach. 
+  Hello and welcome to my portfolio. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go for a run and learn new programming languages.
   
 ## Education
 - High School KTS Voorhout: 4 years Building, Living and Interiour
