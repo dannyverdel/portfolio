@@ -1,19 +1,19 @@
 #include <stdio.h>
 
-int *test()
-{
-    static int x[4];
-    for(int i=0;i<4;i++)
-    {
-        x[i] = i%2;
-    }
-    return x;
-}
-
 int main()
 {
-    int *arr = test();
-    printf("%d", *(arr+3));
+    const char filename[] = "C:\\Users\\Danny\\portfolio\\Learning\\C\\Challenge\\FileLineCount\\index.c";
+    FILE *fh;
+    char x, a;
+
+    fh = fopen(filename, "a");
+    if(fh == NULL)
+    {
+        printf("Unable to write to file %s\n",filename);
+        return(1);
+    }
+
+    fclose(fh);
 
     return(0);
 }
