@@ -1,30 +1,19 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+
+int *test()
+{
+    static int x[4];
+    for(int i=0;i<4;i++)
+    {
+        x[i] = i%2;
+    }
+    return x;
+}
 
 int main()
 {
-    char *fruit[10];
-    char buffer[32];
-    int x;
-
-    for(x=0;x<10;x++)
-    {
-        printf("Enter fruit #%d: ",x+1);
-        scanf("%s", &buffer);
-
-        fruit[x] = (char *)malloc(strlen(buffer)+1);
-        if(fruit[x]==NULL)
-        {
-            puts("Memory allocation failed");
-            exit(1);
-        }
-
-        strcpy(fruit[x],buffer);
-    }
-
-    for(x=0;x<10;x++)
-        printf("%s\n",fruit[x]);
+    int *arr = test();
+    printf("%d", *(arr+3));
 
     return(0);
 }
