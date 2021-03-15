@@ -11,6 +11,7 @@ int main()
 
     printf("Specify a filepath: ");
 
+    //Get the user input
     x=0;
     while(input != '\n')
     {
@@ -19,6 +20,7 @@ int main()
         x++;
     }
 
+    //Remove the newline character
     if(path[strlen(path)-1] == '\n')
         path[strlen(path)-1] = '\0';
 
@@ -26,6 +28,7 @@ int main()
     DIR *dir;
     struct dirent *file;
 
+    //Open specified path
     dir = opendir(path);
     if(dir==NULL)
     {
@@ -37,12 +40,14 @@ int main()
     FILE *fh;
     int r;
 
+    //Delete the file that is there already
     r = unlink("filelist.txt");
     if(r==0)
         printf("rewriting to file...");
     else
         printf("Unable to rewrite file");
 
+    //Open the file
     fh = fopen("filelist.txt", "a");
     if(fh==NULL)
     {
@@ -50,9 +55,11 @@ int main()
         return(1);
     }
 
+    //Write all file names to the new file
     while((file=readdir(dir)) != NULL)
         fprintf(fh, "%s\n", file->d_name);
 
+    //Close file and directory
     fclose(fh);
     closedir(dir);
 
