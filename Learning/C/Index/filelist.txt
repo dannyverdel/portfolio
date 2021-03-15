@@ -1,0 +1,72 @@
+.
+..
+.azurefunctions
+.bash_history
+.cache
+.config
+.dotnet
+.gitconfig
+.idlerc
+.jssc
+.librarymanager
+.node_repl_history
+.nuget
+.openshot_qt
+.oracle_jre_usage
+.Origin
+.PyCharm2019.2
+.QtWebEngineProcess
+.recently-used.xbel
+.templateengine
+.vscode
+.youtube-upload-credentials.json
+3D Objects
+ansel
+AppData
+Application Data
+aspnetcoreapp
+AzureStorageEmulatorDb510.mdf
+AzureStorageEmulatorDb510_log.ldf
+Contacts
+Cookies
+Desktop
+Documents
+Downloads
+environments
+example.txt
+Favorites
+first
+IntelGraphicsProfiles
+Links
+Local Settings
+Menu Start
+mercurial.ini
+Microsoft
+MicrosoftEdgeBackups
+Mijn documenten
+Music
+my_env
+NetHood
+Netwerkprinteromgeving
+node_modules
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{d58d357e-de0e-11e9-9e9a-a27a70dd9c4e}.TM.blf
+NTUSER.DAT{d58d357e-de0e-11e9-9e9a-a27a70dd9c4e}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{d58d357e-de0e-11e9-9e9a-a27a70dd9c4e}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+OneDrive
+package-lock.json
+Pictures
+portfolio
+Postman
+Recent
+Saved Games
+Searches
+SendTo
+Sjablonen
+source
+Videos
+wachtwoorden.xlsx
+wwdb.txt
