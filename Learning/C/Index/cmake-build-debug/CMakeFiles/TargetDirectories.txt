@@ -1,3 +1,0 @@
-C:/Users/Danny/portfolio/Learning/C/Index/cmake-build-debug/CMakeFiles/Index.dir
-C:/Users/Danny/portfolio/Learning/C/Index/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Danny/portfolio/Learning/C/Index/cmake-build-debug/CMakeFiles/rebuild_cache.dir

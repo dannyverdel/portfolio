@@ -8,7 +8,7 @@ int main()
     int pulled[6];
     int balls[51];
 
-    printf("\nPick your number between 1 - 51:");
+    printf("Pick your number between 1 - 51: ");
     scanf("%d", &pick);
 
     if(pick < 1 || pick > 51)
