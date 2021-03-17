@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-int compare(const void *a, const void *b)
-{
-    return(*(int *)a - *(int *)b);
-}
-
 int main()
 {
     int pick, draw, b, x;
@@ -30,7 +25,7 @@ int main()
     draw = 0;
     while(draw < 6)
     {
-        b = rand() % 51;
+        b = rand() % 51 + 1;
         if(balls[b] == 0)
         {
             balls[b] = 1;
@@ -38,18 +33,27 @@ int main()
         }
     }
 
-    qsort(pulled, 6, sizeof(int), compare);
-
     printf("Winning numbers are:");
     for(x=0;x<51;x++)
     {
         if(balls[x] == 1)
         {
-            printf("%3d", x+1);
+            pulled[x] = x;
+            printf("%4d", x);
         }
     }
 
     putchar('\n');
+
+    for(x=0;x<6;x++)
+    {
+        if(pick == pulled[x])
+        {
+            putchar('\n');
+            printf("CONGRATULATIONS. YOU WON!");
+            putchar('\n');
+        }
+    }
 
     return 0;
 }
