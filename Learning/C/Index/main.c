@@ -3,10 +3,12 @@
 
 int main()
 {
-    time_t now;
+    char name[64];
 
-    time(&now);
-    printf("It's now %s\n",ctime(&now));
+    printf("Hello there.\nWhat is your name?");
+    scanf("%s", name);
+
+    printf("Nice to meet you %s.\nMy name is Jarvis", name);
 
     return 0;
 }
